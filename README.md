@@ -1,4 +1,10 @@
-## Hi there 👋
+HELLO!
+
+I am currently a student at OSU! I am inbetween two majors, CSE and EE still deciding on what I want to go more into!
+
+I am currently working; 
+
+JAVA based password manager full stack app!
 
 <!--
 **khanalb06/khanalb06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
